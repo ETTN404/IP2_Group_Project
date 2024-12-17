@@ -64,9 +64,7 @@
 .Headers_left img {
   height: 130%;
 }
-.Headers_left ul {
-  /* color: #092039; */
-}
+
 
 #Dropdown_container_catagory div {
   color: #8c8fac;
