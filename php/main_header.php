@@ -296,7 +296,7 @@ input::placeholder {
 
           <input type="text" placeholder="Search" />
           <img
-            src="../svgs/solid/search.svg"
+            src="../svgs/search.svg"
             alt="search"
             id="searchbutton"
             width="24"
@@ -311,7 +311,7 @@ input::placeholder {
             width="30"
             height="30"
             class="notification"
-            src="../svgs/regular/bookmark.svg"
+            src="../svgs/bookmark.svg"
             alt=""
           />
 
@@ -320,12 +320,12 @@ input::placeholder {
             class="humb1"
             width="30"
             height="30"
-            src="../svgs/solid/cart-shopping.svg"
+            src="../svgs/cart-shopping.svg"
             alt=""
           />
           <img
             class="notification"
-            src="../svgs/solid/notifications.svg"
+            src="../svgs/notifications.svg"
             alt=""
           />
           <div class="logout">
@@ -376,8 +376,8 @@ input::placeholder {
                 style="width: 20px; height: 20px; position: absolute"
                 id="daynight"
               >
-                <img id="moon" src="../svgs/solid/moon.svg" alt="" />
-                <img id="sun" src="../svgs/solid/sun.svg" alt="" />
+                <img id="moon" src="../svgs/moon.svg" alt="" />
+                <img id="sun" src="../svgs/sun.svg" alt="" />
               </div>
             </div>
           </div>
